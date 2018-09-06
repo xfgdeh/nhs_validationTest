@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nhs_validationTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="validationTest.war">
+      <element id="artifact" artifact-name="nhs_validationTest:war exploded" />
+    </root>
+  </artifact>
+</component>
